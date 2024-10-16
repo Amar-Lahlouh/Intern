@@ -39,6 +39,7 @@ Backend Dependencies
 axios: For making HTTP requests.
 express: Web framework for Node.js.
 node-cache: For caching API responses.
+cors:For Relation
 install these dependencies for backend
 
 Frontend Dependencies
